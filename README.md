@@ -1,3 +1,7 @@
+# ССЫЛКА НА ЯНДЕКС ДИСК
+
+https://disk.yandex.ru/d/VY-Gwsx3ONrLxg
+
 # Анализатор служебных переговоров
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%&lines=Автоматизация+Мультиплатформенность)](https://git.io/typing-svg)
